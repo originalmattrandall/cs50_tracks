@@ -13,8 +13,8 @@ A basic pokedex that pulls in information from the Pokeapi.co API.
 #### Fiftygram
 A photo filtering application
 
-[x] Various filters
-[x] Ability to save the newly filtered photo to the mobile device after being granted permissions by the user
+/[x] Various filters
+/[x] Ability to save the newly filtered photo to the mobile device after being granted permissions by the user
 
 
 #### Notes
