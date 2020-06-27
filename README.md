@@ -5,19 +5,19 @@
 #### Pokedex
 A basic pokedex that pulls in information from the Pokeapi.co API.
 
-[checkbox:checked] List of all pokemon
-[x] individual pokemon details when selected
-[x] Catch and release tracking to identify which pokemon you have
+- [x] List of all pokemon
+- [x] individual pokemon details when selected
+- [x] Catch and release tracking to identify which pokemon you have
 
 
 #### Fiftygram
 A photo filtering application
 
-[x] Various filters
-[x] Ability to save the newly filtered photo to the mobile device after being granted permissions by the user
+- [x] Various filters
+- [x] Ability to save the newly filtered photo to the mobile device after being granted permissions by the user
 
 
 #### Notes
 A basic note taking application
 
-[x] Delete notes
+- [x] Delete notes
