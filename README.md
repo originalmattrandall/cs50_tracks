@@ -5,7 +5,7 @@
 #### Pokedex
 A basic pokedex that pulls in information from the Pokeapi.co API.
 
-[x] List of all pokemon
+[checkbox:checked] List of all pokemon
 [x] individual pokemon details when selected
 [x] Catch and release tracking to identify which pokemon you have
 
